@@ -5,17 +5,17 @@
    * colors
    */
 
-  --eerie-black_a95: hsla(204, 9%, 11%, 0.95);
+  --eerie-black_a95: hsla(264, 9%, 11%, 0.95);
   --eerie-black_a50: hsla(204, 9%, 11%, 0.5);
   --eerie-black: hsl(204, 9%, 11%);
-  --gainsboro: hsl(228, 13%, 8%);
-  --charcoal: hsl(203, 9%, 28%);
-  --silver-sand: hsl(208, 12%, 78%);
+  --gainsboro: hsl(231, 14%, 90%);
+  --charcoal: hsl(203, 9%, 60%);
+  --silver-sand: hsl(212, 22%, 85%);
   --light-sky-blue: hsl(200, 100%, 73%);
   --prussian-blue: hsl(196, 100%, 14%);
   --black: hsl(0, 0%, 0%);
   --black_a50: hsla(0, 0%, 0%, 0.5);
-  --black_a20: hsla(0, 0%, 0%, 0.2);
+  --black_a20: hsla(328, 75%, 16%, 0.171);
   --light-sky-blue_a8: hsla(200, 100%, 73%, 0.08);
   --light-sky-blue_a12: hsla(200, 100%, 73%, 0.12);
   --silver-sand_a8: hsla(208, 12%, 78%, 0.08);
@@ -35,7 +35,7 @@
    * gradient
    */
 
-  --gradient: linear-gradient(180deg, hsla(204, 9%, 11%, 0.90) 60%, transparent 120%);
+  --gradient: linear-gradient(180deg, hsla(203, 34%, 15%, 0.9) 60%, transparent 120%);
 
   /**
    * typography
